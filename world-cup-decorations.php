@@ -3,7 +3,7 @@
  * Plugin Name: World Cup Decorations
  * Plugin URI:  https://networked.com.br
  * Description: Adds subtle World Cup decorations to your site: SVG bunting, falling confetti, intro animations with a bouncing ball, a vuvuzela and a tactics board, plus country-based colors and session/cookie repeat controls.
- * Version:     1.3.2
+ * Version:     1.3.3
  * Author:      Eduardo Henrique Silva Teixeira
  * Author URI:  https://networked.com.br
  * Author Email: contato@networked.com.br
@@ -21,7 +21,7 @@ if (!defined('ABSPATH')) {
 
 final class LDB_Copa_Do_Mundo_Plugin
 {
-    public const VERSION = '1.3.2';
+    public const VERSION = '1.3.3';
     public const OPTION_NAME = 'ldb_copa_do_mundo_options';
 
     private static ?self $instance = null;
