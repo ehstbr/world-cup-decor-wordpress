@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Cup Decorations 1.3.2\\n"
+"Report-Msgid-Bugs-To: contato@networked.com.br\\n"
+"POT-Creation-Date: 2026-06-13 01:20+0000\\n"
+"PO-Revision-Date: 2026-06-13 01:20+0000\\n"
+"Last-Translator: Eduardo Henrique Silva Teixeira <contato@networked.com.br>\\n"
+"Language-Team: Networked\\n"
+"Language: es_ES\\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"X-Generator: ChatGPT\\n"
+
+msgid "South Africa"
+msgstr "Sudáfrica"
+
+msgid "Germany"
+msgstr "Alemania"
+
+msgid "Saudi Arabia"
+msgstr "Arabia Saudita"
+
+msgid "Algeria"
+msgstr "Argelia"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Belgium"
+msgstr "Bélgica"
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Cameroon"
+msgstr "Camerún"
+
+msgid "Canada"
+msgstr "Canadá"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "South Korea"
+msgstr "Corea del Sur"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Croatia"
+msgstr "Croacia"
+
+msgid "Denmark"
+msgstr "Dinamarca"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Egypt"
+msgstr "Egipto"
+
+msgid "Spain"
+msgstr "España"
+
+msgid "United States"
+msgstr "Estados Unidos"
+
+msgid "France"
+msgstr "Francia"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Netherlands"
+msgstr "Países Bajos"
+
+msgid "England"
+msgstr "Inglaterra"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Japan"
+msgstr "Japón"
+
+msgid "Morocco"
+msgstr "Marruecos"
+
+msgid "Mexico"
+msgstr "México"
+
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgid "Norway"
+msgstr "Noruega"
+
+msgid "Panama"
+msgstr "Panamá"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Peru"
+msgstr "Perú"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Qatar"
+msgstr "Catar"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Sweden"
+msgstr "Suecia"
+
+msgid "Switzerland"
+msgstr "Suiza"
+
+msgid "Tunisia"
+msgstr "Túnez"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "World Cup Decorations"
+msgstr "Decoraciones de la Copa del Mundo"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "World Cup decorations preview"
+msgstr "Vista previa de decoraciones de la Copa del Mundo"
+
+msgid "This modal simulates the current settings on a fake store page. Unsaved changes are included in the preview."
+msgstr "Este modal simula la configuración actual en una página de tienda ficticia. Los cambios no guardados se incluyen en la vista previa."
+
+msgid "Close preview"
+msgstr "Cerrar vista previa"
+
+msgid "Demo battery store"
+msgstr "Tienda de baterías de demostración"
+
+msgid "Search for products..."
+msgstr "Buscar productos..."
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Offers"
+msgstr "Ofertas"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Cart"
+msgstr "Carrito"
+
+msgid "World Cup offer"
+msgstr "Oferta de la Copa"
+
+msgid "Decorated storefront preview"
+msgstr "Vista previa de la tienda decorada"
+
+msgid "Bunting, confetti and intro-only elements are rendered over this simulated page."
+msgstr "Banderines, confeti y elementos solo de apertura se muestran sobre esta página simulada."
+
+msgid "Buy now"
+msgstr "Comprar ahora"
+
+msgid "Car batteries"
+msgstr "Baterías para coches"
+
+msgid "Motorcycle batteries"
+msgstr "Baterías para motos"
+
+msgid "Chargers and tools"
+msgstr "Cargadores y herramientas"
+
+msgid "Intro only"
+msgstr "Solo introducción"
+
+msgid "Bunting is disabled in the current settings."
+msgstr "Los banderines están desactivados en la configuración actual."
+
+msgid "Preview only: this does not set cookies and does not change the public site until you save."
+msgstr "Solo vista previa: esto no establece cookies ni cambia el sitio público hasta que guardes."
+
+msgid "Subtle decoration for WordPress and WooCommerce sites: SVG bunting, falling confetti, intro-only animations with a bouncing ball, a realistic vuvuzela and a tactical clipboard, all with country-based colors and repeat controls."
+msgstr "Decoración sutil para sitios WordPress y WooCommerce: banderines SVG, confeti, animaciones de introducción con balón, vuvuzela realista y pizarra táctica, todo con colores por país y controles de repetición."
+
+msgid "Main settings"
+msgstr "Ajustes principales"
+
+msgid "Choose the country palette, decorative elements, intro behavior and mobile handling."
+msgstr "Elige la paleta del país, los elementos decorativos, el comportamiento de la introducción y los ajustes móviles."
+
+msgid "Enable decorations on the site"
+msgstr "Activar decoraciones en el sitio"
+
+msgid "Country / Theme colors"
+msgstr "País / Colores del tema"
+
+msgid "SVG colors adapt to the selected country palette."
+msgstr "Los colores SVG se adaptan a la paleta del país seleccionado."
+
+msgid "Decorative elements"
+msgstr "Elementos decorativos"
+
+msgid "Bunting"
+msgstr "Banderines"
+
+msgid "Paper confetti"
+msgstr "Confeti de papel"
+
+msgid "Bouncing ball — intro only"
+msgstr "Balón rebotando — solo introducción"
+
+msgid "Vuvuzela — intro only"
+msgstr "Vuvuzela — solo introducción"
+
+msgid "Tactics board — intro only"
+msgstr "Pizarra táctica — solo introducción"
+
+msgid "Bunting density"
+msgstr "Densidad de banderines"
+
+msgid "Coverage means how much of the screen width is visually occupied by pennants. The plugin calculates the number of flags automatically based on the viewport width."
+msgstr "La cobertura indica cuánto ancho de pantalla ocupan visualmente los banderines. El plugin calcula automáticamente el número de banderas según el ancho de la ventana."
+
+msgid "Desktop horizontal coverage"
+msgstr "Cobertura horizontal en escritorio"
+
+msgid "Mobile horizontal coverage"
+msgstr "Cobertura horizontal en móvil"
+
+msgid "Intro animation behavior"
+msgstr "Comportamiento de la animación inicial"
+
+msgid "The ball, vuvuzela and tactics board appear only during the intro animation. After that, only subtle decorations remain on the page."
+msgstr "El balón, la vuvuzela y la pizarra táctica aparecen solo durante la animación inicial. Después, solo quedan decoraciones sutiles."
+
+msgid "Repeat full intro animation"
+msgstr "Repetir animación inicial completa"
+
+msgid "Only once per browser session"
+msgstr "Solo una vez por sesión del navegador"
+
+msgid "Every X days using a cookie"
+msgstr "Cada X días usando una cookie"
+
+msgid "Always repeat — useful only for testing"
+msgstr "Repetir siempre — útil solo para pruebas"
+
+msgid "Cookie days"
+msgstr "Días de cookie"
+
+msgid "Controls when the full intro animation can be displayed again."
+msgstr "Controla cuándo puede mostrarse de nuevo la animación inicial completa."
+
+msgid "Initial paper pieces"
+msgstr "Piezas de papel iniciales"
+
+msgid "Total number of paper pieces released during the intro animation."
+msgstr "Número total de piezas de papel liberadas durante la animación inicial."
+
+msgid "Continuous paper pieces per second"
+msgstr "Piezas de papel continuas por segundo"
+
+msgid "Average number of paper pieces generated per second after the intro. Example: 0.20 means one piece every five seconds."
+msgstr "Promedio de piezas de papel generadas por segundo después de la introducción. Ejemplo: 0,20 significa una pieza cada cinco segundos."
+
+msgid "Mobile & compatibility"
+msgstr "Móvil y compatibilidad"
+
+msgid "Disable all decorations on mobile devices"
+msgstr "Desactivar todas las decoraciones en dispositivos móviles"
+
+msgid "Mobile breakpoint (px)"
+msgstr "Punto de corte móvil (px)"
+
+msgid "If disabled on mobile is enabled, widths equal to or below this value will not render decorations."
+msgstr "Si desactivar en móvil está activo, anchos iguales o inferiores a este valor no mostrarán decoraciones."
+
+msgid "Do not show on WooCommerce cart, checkout and My Account pages"
+msgstr "No mostrar en carrito, pago y Mi cuenta de WooCommerce"
+
+msgid "Respect users with reduced motion enabled in their system"
+msgstr "Respetar usuarios con reducción de movimiento activada en su sistema"
+
+msgid "Visual layer / z-index"
+msgstr "Capa visual / z-index"
+
+msgid "Increase only if a theme element is covering the decoration."
+msgstr "Aumenta solo si un elemento del tema está cubriendo la decoración."
+
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "Open a simulated storefront using the current settings. It is better than the old static preview and also works with unsaved form changes."
+msgstr "Abre una tienda simulada usando la configuración actual. Es mejor que la vista previa estática antigua y también funciona con cambios no guardados."
+
+msgid "Open preview modal"
+msgstr "Abrir modal de vista previa"
+
+msgid "The preview runs inside this settings screen only. It does not affect cookies, visitors or your public frontend."
+msgstr "La vista previa se ejecuta solo en esta pantalla de ajustes. No afecta a cookies, visitantes ni al frontend público."

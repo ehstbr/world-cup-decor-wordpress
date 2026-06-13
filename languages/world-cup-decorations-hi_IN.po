@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Cup Decorations 1.3.2\\n"
+"Report-Msgid-Bugs-To: contato@networked.com.br\\n"
+"POT-Creation-Date: 2026-06-13 01:20+0000\\n"
+"PO-Revision-Date: 2026-06-13 01:20+0000\\n"
+"Last-Translator: Eduardo Henrique Silva Teixeira <contato@networked.com.br>\\n"
+"Language-Team: Networked\\n"
+"Language: hi_IN\\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"X-Generator: ChatGPT\\n"
+
+msgid "South Africa"
+msgstr "दक्षिण अफ्रीका"
+
+msgid "Germany"
+msgstr "जर्मनी"
+
+msgid "Saudi Arabia"
+msgstr "सऊदी अरब"
+
+msgid "Algeria"
+msgstr "अल्जीरिया"
+
+msgid "Argentina"
+msgstr "अर्जेंटीना"
+
+msgid "Australia"
+msgstr "ऑस्ट्रेलिया"
+
+msgid "Belgium"
+msgstr "बेल्जियम"
+
+msgid "Bolivia"
+msgstr "बोलीविया"
+
+msgid "Brazil"
+msgstr "ब्राज़ील"
+
+msgid "Cameroon"
+msgstr "कैमरून"
+
+msgid "Canada"
+msgstr "कनाडा"
+
+msgid "Chile"
+msgstr "चिली"
+
+msgid "Colombia"
+msgstr "कोलंबिया"
+
+msgid "South Korea"
+msgstr "दक्षिण कोरिया"
+
+msgid "Costa Rica"
+msgstr "कोस्टा रिका"
+
+msgid "Croatia"
+msgstr "क्रोएशिया"
+
+msgid "Denmark"
+msgstr "डेनमार्क"
+
+msgid "Ecuador"
+msgstr "इक्वाडोर"
+
+msgid "Egypt"
+msgstr "मिस्र"
+
+msgid "Spain"
+msgstr "स्पेन"
+
+msgid "United States"
+msgstr "संयुक्त राज्य अमेरिका"
+
+msgid "France"
+msgstr "फ्रांस"
+
+msgid "Ghana"
+msgstr "घाना"
+
+msgid "Netherlands"
+msgstr "नीदरलैंड"
+
+msgid "England"
+msgstr "इंग्लैंड"
+
+msgid "Italy"
+msgstr "इटली"
+
+msgid "Japan"
+msgstr "जापान"
+
+msgid "Morocco"
+msgstr "मोरक्को"
+
+msgid "Mexico"
+msgstr "मेक्सिको"
+
+msgid "Nigeria"
+msgstr "नाइजीरिया"
+
+msgid "Norway"
+msgstr "नॉर्वे"
+
+msgid "Panama"
+msgstr "पनामा"
+
+msgid "Paraguay"
+msgstr "पराग्वे"
+
+msgid "Peru"
+msgstr "पेरू"
+
+msgid "Poland"
+msgstr "पोलैंड"
+
+msgid "Portugal"
+msgstr "पुर्तगाल"
+
+msgid "Qatar"
+msgstr "कतर"
+
+msgid "Serbia"
+msgstr "सर्बिया"
+
+msgid "Senegal"
+msgstr "सेनेगल"
+
+msgid "Sweden"
+msgstr "स्वीडन"
+
+msgid "Switzerland"
+msgstr "स्विट्ज़रलैंड"
+
+msgid "Tunisia"
+msgstr "ट्यूनीशिया"
+
+msgid "Uruguay"
+msgstr "उरुग्वे"
+
+msgid "Venezuela"
+msgstr "वेनेज़ुएला"
+
+msgid "World Cup Decorations"
+msgstr "विश्व कप सजावट"
+
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+msgid "World Cup decorations preview"
+msgstr "विश्व कप सजावट पूर्वावलोकन"
+
+msgid "This modal simulates the current settings on a fake store page. Unsaved changes are included in the preview."
+msgstr "This modal simulates the current settings on a fake store page. Unsaved changes are included in the preview."
+
+msgid "Close preview"
+msgstr "पूर्वावलोकन बंद करें"
+
+msgid "Demo battery store"
+msgstr "डेमो बैटरी स्टोर"
+
+msgid "Search for products..."
+msgstr "उत्पाद खोजें..."
+
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+msgid "Home"
+msgstr "होम"
+
+msgid "Offers"
+msgstr "ऑफ़र"
+
+msgid "Blog"
+msgstr "ब्लॉग"
+
+msgid "Cart"
+msgstr "कार्ट"
+
+msgid "World Cup offer"
+msgstr "विश्व कप ऑफ़र"
+
+msgid "Decorated storefront preview"
+msgstr "सजाए गए स्टोर का पूर्वावलोकन"
+
+msgid "Bunting, confetti and intro-only elements are rendered over this simulated page."
+msgstr "Bunting, confetti and intro-only elements are rendered over this simulated page."
+
+msgid "Buy now"
+msgstr "अभी खरीदें"
+
+msgid "Car batteries"
+msgstr "कार बैटरियाँ"
+
+msgid "Motorcycle batteries"
+msgstr "मोटरसाइकिल बैटरियाँ"
+
+msgid "Chargers and tools"
+msgstr "चार्जर और उपकरण"
+
+msgid "Intro only"
+msgstr "केवल इंट्रो"
+
+msgid "Bunting is disabled in the current settings."
+msgstr "Bunting is disabled in the current settings."
+
+msgid "Preview only: this does not set cookies and does not change the public site until you save."
+msgstr "Preview only: this does not set cookies and does not change the public site until you save."
+
+msgid "Subtle decoration for WordPress and WooCommerce sites: SVG bunting, falling confetti, intro-only animations with a bouncing ball, a realistic vuvuzela and a tactical clipboard, all with country-based colors and repeat controls."
+msgstr "Subtle decoration for WordPress and WooCommerce sites: SVG bunting, falling confetti, intro-only animations with a bouncing ball, a realistic vuvuzela and a tactical clipboard, all with country-based colors and repeat controls."
+
+msgid "Main settings"
+msgstr "मुख्य सेटिंग्स"
+
+msgid "Choose the country palette, decorative elements, intro behavior and mobile handling."
+msgstr "Choose the country palette, decorative elements, intro behavior and mobile handling."
+
+msgid "Enable decorations on the site"
+msgstr "साइट पर सजावट सक्षम करें"
+
+msgid "Country / Theme colors"
+msgstr "देश / थीम रंग"
+
+msgid "SVG colors adapt to the selected country palette."
+msgstr "SVG colors adapt to the selected country palette."
+
+msgid "Decorative elements"
+msgstr "सजावटी तत्व"
+
+msgid "Bunting"
+msgstr "झंडियाँ"
+
+msgid "Paper confetti"
+msgstr "कागज़ी कंफ़ेटी"
+
+msgid "Bouncing ball — intro only"
+msgstr "उछलती गेंद — केवल इंट्रो"
+
+msgid "Vuvuzela — intro only"
+msgstr "वुवुज़ेला — केवल इंट्रो"
+
+msgid "Tactics board — intro only"
+msgstr "रणनीति बोर्ड — केवल इंट्रो"
+
+msgid "Bunting density"
+msgstr "झंडियों की घनता"
+
+msgid "Coverage means how much of the screen width is visually occupied by pennants. The plugin calculates the number of flags automatically based on the viewport width."
+msgstr "Coverage means how much of the screen width is visually occupied by pennants. The plugin calculates the number of flags automatically based on the viewport width."
+
+msgid "Desktop horizontal coverage"
+msgstr "डेस्कटॉप क्षैतिज कवरेज"
+
+msgid "Mobile horizontal coverage"
+msgstr "मोबाइल क्षैतिज कवरेज"
+
+msgid "Intro animation behavior"
+msgstr "इंट्रो एनीमेशन व्यवहार"
+
+msgid "The ball, vuvuzela and tactics board appear only during the intro animation. After that, only subtle decorations remain on the page."
+msgstr "The ball, vuvuzela and tactics board appear only during the intro animation. After that, only subtle decorations remain on the page."
+
+msgid "Repeat full intro animation"
+msgstr "पूर्ण इंट्रो एनीमेशन दोहराएँ"
+
+msgid "Only once per browser session"
+msgstr "प्रति ब्राउज़र सत्र केवल एक बार"
+
+msgid "Every X days using a cookie"
+msgstr "कुकी द्वारा हर X दिनों में"
+
+msgid "Always repeat — useful only for testing"
+msgstr "हमेशा दोहराएँ — केवल परीक्षण के लिए"
+
+msgid "Cookie days"
+msgstr "कुकी दिन"
+
+msgid "Controls when the full intro animation can be displayed again."
+msgstr "Controls when the full intro animation can be displayed again."
+
+msgid "Initial paper pieces"
+msgstr "प्रारंभिक कागज़ी टुकड़े"
+
+msgid "Total number of paper pieces released during the intro animation."
+msgstr "Total number of paper pieces released during the intro animation."
+
+msgid "Continuous paper pieces per second"
+msgstr "लगातार कागज़ी टुकड़े प्रति सेकंड"
+
+msgid "Average number of paper pieces generated per second after the intro. Example: 0.20 means one piece every five seconds."
+msgstr "Average number of paper pieces generated per second after the intro. Example: 0.20 means one piece every five seconds."
+
+msgid "Mobile & compatibility"
+msgstr "मोबाइल और संगतता"
+
+msgid "Disable all decorations on mobile devices"
+msgstr "मोबाइल उपकरणों पर सभी सजावट बंद करें"
+
+msgid "Mobile breakpoint (px)"
+msgstr "मोबाइल ब्रेकपॉइंट (px)"
+
+msgid "If disabled on mobile is enabled, widths equal to or below this value will not render decorations."
+msgstr "If disabled on mobile is enabled, widths equal to or below this value will not render decorations."
+
+msgid "Do not show on WooCommerce cart, checkout and My Account pages"
+msgstr "Do not show on WooCommerce cart, checkout and My Account pages"
+
+msgid "Respect users with reduced motion enabled in their system"
+msgstr "Respect users with reduced motion enabled in their system"
+
+msgid "Visual layer / z-index"
+msgstr "Visual layer / z-index"
+
+msgid "Increase only if a theme element is covering the decoration."
+msgstr "Increase only if a theme element is covering the decoration."
+
+msgid "Save settings"
+msgstr "सेटिंग्स सहेजें"
+
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+msgid "Open a simulated storefront using the current settings. It is better than the old static preview and also works with unsaved form changes."
+msgstr "Open a simulated storefront using the current settings. It is better than the old static preview and also works with unsaved form changes."
+
+msgid "Open preview modal"
+msgstr "पूर्वावलोकन मोडल खोलें"
+
+msgid "The preview runs inside this settings screen only. It does not affect cookies, visitors or your public frontend."
+msgstr "The preview runs inside this settings screen only. It does not affect cookies, visitors or your public frontend."

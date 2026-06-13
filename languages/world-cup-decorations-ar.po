@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Cup Decorations 1.3.2\\n"
+"Report-Msgid-Bugs-To: contato@networked.com.br\\n"
+"POT-Creation-Date: 2026-06-13 01:20+0000\\n"
+"PO-Revision-Date: 2026-06-13 01:20+0000\\n"
+"Last-Translator: Eduardo Henrique Silva Teixeira <contato@networked.com.br>\\n"
+"Language-Team: Networked\\n"
+"Language: ar\\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"X-Generator: ChatGPT\\n"
+
+msgid "South Africa"
+msgstr "جنوب أفريقيا"
+
+msgid "Germany"
+msgstr "ألمانيا"
+
+msgid "Saudi Arabia"
+msgstr "السعودية"
+
+msgid "Algeria"
+msgstr "الجزائر"
+
+msgid "Argentina"
+msgstr "الأرجنتين"
+
+msgid "Australia"
+msgstr "أستراليا"
+
+msgid "Belgium"
+msgstr "بلجيكا"
+
+msgid "Bolivia"
+msgstr "بوليفيا"
+
+msgid "Brazil"
+msgstr "البرازيل"
+
+msgid "Cameroon"
+msgstr "الكاميرون"
+
+msgid "Canada"
+msgstr "كندا"
+
+msgid "Chile"
+msgstr "تشيلي"
+
+msgid "Colombia"
+msgstr "كولومبيا"
+
+msgid "South Korea"
+msgstr "كوريا الجنوبية"
+
+msgid "Costa Rica"
+msgstr "كوستاريكا"
+
+msgid "Croatia"
+msgstr "كرواتيا"
+
+msgid "Denmark"
+msgstr "الدنمارك"
+
+msgid "Ecuador"
+msgstr "الإكوادور"
+
+msgid "Egypt"
+msgstr "مصر"
+
+msgid "Spain"
+msgstr "إسبانيا"
+
+msgid "United States"
+msgstr "الولايات المتحدة"
+
+msgid "France"
+msgstr "فرنسا"
+
+msgid "Ghana"
+msgstr "غانا"
+
+msgid "Netherlands"
+msgstr "هولندا"
+
+msgid "England"
+msgstr "إنجلترا"
+
+msgid "Italy"
+msgstr "إيطاليا"
+
+msgid "Japan"
+msgstr "اليابان"
+
+msgid "Morocco"
+msgstr "المغرب"
+
+msgid "Mexico"
+msgstr "المكسيك"
+
+msgid "Nigeria"
+msgstr "نيجيريا"
+
+msgid "Norway"
+msgstr "النرويج"
+
+msgid "Panama"
+msgstr "بنما"
+
+msgid "Paraguay"
+msgstr "باراغواي"
+
+msgid "Peru"
+msgstr "بيرو"
+
+msgid "Poland"
+msgstr "بولندا"
+
+msgid "Portugal"
+msgstr "البرتغال"
+
+msgid "Qatar"
+msgstr "قطر"
+
+msgid "Serbia"
+msgstr "صربيا"
+
+msgid "Senegal"
+msgstr "السنغال"
+
+msgid "Sweden"
+msgstr "السويد"
+
+msgid "Switzerland"
+msgstr "سويسرا"
+
+msgid "Tunisia"
+msgstr "تونس"
+
+msgid "Uruguay"
+msgstr "أوروغواي"
+
+msgid "Venezuela"
+msgstr "فنزويلا"
+
+msgid "World Cup Decorations"
+msgstr "زينة كأس العالم"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "World Cup decorations preview"
+msgstr "معاينة زينة كأس العالم"
+
+msgid "This modal simulates the current settings on a fake store page. Unsaved changes are included in the preview."
+msgstr "This modal simulates the current settings on a fake store page. Unsaved changes are included in the preview."
+
+msgid "Close preview"
+msgstr "إغلاق المعاينة"
+
+msgid "Demo battery store"
+msgstr "متجر بطاريات تجريبي"
+
+msgid "Search for products..."
+msgstr "البحث عن المنتجات..."
+
+msgid "Categories"
+msgstr "الفئات"
+
+msgid "Home"
+msgstr "الرئيسية"
+
+msgid "Offers"
+msgstr "العروض"
+
+msgid "Blog"
+msgstr "المدونة"
+
+msgid "Cart"
+msgstr "السلة"
+
+msgid "World Cup offer"
+msgstr "عرض كأس العالم"
+
+msgid "Decorated storefront preview"
+msgstr "معاينة واجهة متجر مزينة"
+
+msgid "Bunting, confetti and intro-only elements are rendered over this simulated page."
+msgstr "Bunting, confetti and intro-only elements are rendered over this simulated page."
+
+msgid "Buy now"
+msgstr "اشترِ الآن"
+
+msgid "Car batteries"
+msgstr "بطاريات السيارات"
+
+msgid "Motorcycle batteries"
+msgstr "بطاريات الدراجات"
+
+msgid "Chargers and tools"
+msgstr "الشواحن والأدوات"
+
+msgid "Intro only"
+msgstr "المقدمة فقط"
+
+msgid "Bunting is disabled in the current settings."
+msgstr "Bunting is disabled in the current settings."
+
+msgid "Preview only: this does not set cookies and does not change the public site until you save."
+msgstr "Preview only: this does not set cookies and does not change the public site until you save."
+
+msgid "Subtle decoration for WordPress and WooCommerce sites: SVG bunting, falling confetti, intro-only animations with a bouncing ball, a realistic vuvuzela and a tactical clipboard, all with country-based colors and repeat controls."
+msgstr "Subtle decoration for WordPress and WooCommerce sites: SVG bunting, falling confetti, intro-only animations with a bouncing ball, a realistic vuvuzela and a tactical clipboard, all with country-based colors and repeat controls."
+
+msgid "Main settings"
+msgstr "الإعدادات الرئيسية"
+
+msgid "Choose the country palette, decorative elements, intro behavior and mobile handling."
+msgstr "Choose the country palette, decorative elements, intro behavior and mobile handling."
+
+msgid "Enable decorations on the site"
+msgstr "تفعيل الزينة على الموقع"
+
+msgid "Country / Theme colors"
+msgstr "الدولة / ألوان السمة"
+
+msgid "SVG colors adapt to the selected country palette."
+msgstr "SVG colors adapt to the selected country palette."
+
+msgid "Decorative elements"
+msgstr "العناصر الزخرفية"
+
+msgid "Bunting"
+msgstr "الأعلام الصغيرة"
+
+msgid "Paper confetti"
+msgstr "قصاصات ورق"
+
+msgid "Bouncing ball — intro only"
+msgstr "كرة ترتد — المقدمة فقط"
+
+msgid "Vuvuzela — intro only"
+msgstr "فوفوزيلا — المقدمة فقط"
+
+msgid "Tactics board — intro only"
+msgstr "لوحة تكتيكية — المقدمة فقط"
+
+msgid "Bunting density"
+msgstr "كثافة الأعلام"
+
+msgid "Coverage means how much of the screen width is visually occupied by pennants. The plugin calculates the number of flags automatically based on the viewport width."
+msgstr "Coverage means how much of the screen width is visually occupied by pennants. The plugin calculates the number of flags automatically based on the viewport width."
+
+msgid "Desktop horizontal coverage"
+msgstr "التغطية الأفقية لسطح المكتب"
+
+msgid "Mobile horizontal coverage"
+msgstr "التغطية الأفقية للجوال"
+
+msgid "Intro animation behavior"
+msgstr "سلوك حركة المقدمة"
+
+msgid "The ball, vuvuzela and tactics board appear only during the intro animation. After that, only subtle decorations remain on the page."
+msgstr "The ball, vuvuzela and tactics board appear only during the intro animation. After that, only subtle decorations remain on the page."
+
+msgid "Repeat full intro animation"
+msgstr "تكرار حركة المقدمة كاملة"
+
+msgid "Only once per browser session"
+msgstr "مرة واحدة لكل جلسة متصفح"
+
+msgid "Every X days using a cookie"
+msgstr "كل X أيام باستخدام ملف تعريف ارتباط"
+
+msgid "Always repeat — useful only for testing"
+msgstr "التكرار دائمًا — مفيد للاختبار فقط"
+
+msgid "Cookie days"
+msgstr "أيام ملف تعريف الارتباط"
+
+msgid "Controls when the full intro animation can be displayed again."
+msgstr "Controls when the full intro animation can be displayed again."
+
+msgid "Initial paper pieces"
+msgstr "قطع الورق الأولية"
+
+msgid "Total number of paper pieces released during the intro animation."
+msgstr "Total number of paper pieces released during the intro animation."
+
+msgid "Continuous paper pieces per second"
+msgstr "قطع الورق المستمرة في الثانية"
+
+msgid "Average number of paper pieces generated per second after the intro. Example: 0.20 means one piece every five seconds."
+msgstr "Average number of paper pieces generated per second after the intro. Example: 0.20 means one piece every five seconds."
+
+msgid "Mobile & compatibility"
+msgstr "الجوال والتوافق"
+
+msgid "Disable all decorations on mobile devices"
+msgstr "تعطيل كل الزينة على الأجهزة المحمولة"
+
+msgid "Mobile breakpoint (px)"
+msgstr "نقطة توقف الجوال (px)"
+
+msgid "If disabled on mobile is enabled, widths equal to or below this value will not render decorations."
+msgstr "If disabled on mobile is enabled, widths equal to or below this value will not render decorations."
+
+msgid "Do not show on WooCommerce cart, checkout and My Account pages"
+msgstr "Do not show on WooCommerce cart, checkout and My Account pages"
+
+msgid "Respect users with reduced motion enabled in their system"
+msgstr "Respect users with reduced motion enabled in their system"
+
+msgid "Visual layer / z-index"
+msgstr "Visual layer / z-index"
+
+msgid "Increase only if a theme element is covering the decoration."
+msgstr "Increase only if a theme element is covering the decoration."
+
+msgid "Save settings"
+msgstr "حفظ الإعدادات"
+
+msgid "Preview"
+msgstr "معاينة"
+
+msgid "Open a simulated storefront using the current settings. It is better than the old static preview and also works with unsaved form changes."
+msgstr "Open a simulated storefront using the current settings. It is better than the old static preview and also works with unsaved form changes."
+
+msgid "Open preview modal"
+msgstr "فتح نافذة المعاينة"
+
+msgid "The preview runs inside this settings screen only. It does not affect cookies, visitors or your public frontend."
+msgstr "The preview runs inside this settings screen only. It does not affect cookies, visitors or your public frontend."

@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Cup Decorations 1.3.2\\n"
+"Report-Msgid-Bugs-To: contato@networked.com.br\\n"
+"POT-Creation-Date: 2026-06-13 01:20+0000\\n"
+"PO-Revision-Date: 2026-06-13 01:20+0000\\n"
+"Last-Translator: Eduardo Henrique Silva Teixeira <contato@networked.com.br>\\n"
+"Language-Team: Networked\\n"
+"Language: \\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"X-Generator: ChatGPT\\n"
+
+msgid "South Africa"
+msgstr ""
+
+msgid "Germany"
+msgstr ""
+
+msgid "Saudi Arabia"
+msgstr ""
+
+msgid "Algeria"
+msgstr ""
+
+msgid "Argentina"
+msgstr ""
+
+msgid "Australia"
+msgstr ""
+
+msgid "Belgium"
+msgstr ""
+
+msgid "Bolivia"
+msgstr ""
+
+msgid "Brazil"
+msgstr ""
+
+msgid "Cameroon"
+msgstr ""
+
+msgid "Canada"
+msgstr ""
+
+msgid "Chile"
+msgstr ""
+
+msgid "Colombia"
+msgstr ""
+
+msgid "South Korea"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr ""
+
+msgid "Croatia"
+msgstr ""
+
+msgid "Denmark"
+msgstr ""
+
+msgid "Ecuador"
+msgstr ""
+
+msgid "Egypt"
+msgstr ""
+
+msgid "Spain"
+msgstr ""
+
+msgid "United States"
+msgstr ""
+
+msgid "France"
+msgstr ""
+
+msgid "Ghana"
+msgstr ""
+
+msgid "Netherlands"
+msgstr ""
+
+msgid "England"
+msgstr ""
+
+msgid "Italy"
+msgstr ""
+
+msgid "Japan"
+msgstr ""
+
+msgid "Morocco"
+msgstr ""
+
+msgid "Mexico"
+msgstr ""
+
+msgid "Nigeria"
+msgstr ""
+
+msgid "Norway"
+msgstr ""
+
+msgid "Panama"
+msgstr ""
+
+msgid "Paraguay"
+msgstr ""
+
+msgid "Peru"
+msgstr ""
+
+msgid "Poland"
+msgstr ""
+
+msgid "Portugal"
+msgstr ""
+
+msgid "Qatar"
+msgstr ""
+
+msgid "Serbia"
+msgstr ""
+
+msgid "Senegal"
+msgstr ""
+
+msgid "Sweden"
+msgstr ""
+
+msgid "Switzerland"
+msgstr ""
+
+msgid "Tunisia"
+msgstr ""
+
+msgid "Uruguay"
+msgstr ""
+
+msgid "Venezuela"
+msgstr ""
+
+msgid "World Cup Decorations"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "World Cup decorations preview"
+msgstr ""
+
+msgid "This modal simulates the current settings on a fake store page. Unsaved changes are included in the preview."
+msgstr ""
+
+msgid "Close preview"
+msgstr ""
+
+msgid "Demo battery store"
+msgstr ""
+
+msgid "Search for products..."
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Offers"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "Cart"
+msgstr ""
+
+msgid "World Cup offer"
+msgstr ""
+
+msgid "Decorated storefront preview"
+msgstr ""
+
+msgid "Bunting, confetti and intro-only elements are rendered over this simulated page."
+msgstr ""
+
+msgid "Buy now"
+msgstr ""
+
+msgid "Car batteries"
+msgstr ""
+
+msgid "Motorcycle batteries"
+msgstr ""
+
+msgid "Chargers and tools"
+msgstr ""
+
+msgid "Intro only"
+msgstr ""
+
+msgid "Bunting is disabled in the current settings."
+msgstr ""
+
+msgid "Preview only: this does not set cookies and does not change the public site until you save."
+msgstr ""
+
+msgid "Subtle decoration for WordPress and WooCommerce sites: SVG bunting, falling confetti, intro-only animations with a bouncing ball, a realistic vuvuzela and a tactical clipboard, all with country-based colors and repeat controls."
+msgstr ""
+
+msgid "Main settings"
+msgstr ""
+
+msgid "Choose the country palette, decorative elements, intro behavior and mobile handling."
+msgstr ""
+
+msgid "Enable decorations on the site"
+msgstr ""
+
+msgid "Country / Theme colors"
+msgstr ""
+
+msgid "SVG colors adapt to the selected country palette."
+msgstr ""
+
+msgid "Decorative elements"
+msgstr ""
+
+msgid "Bunting"
+msgstr ""
+
+msgid "Paper confetti"
+msgstr ""
+
+msgid "Bouncing ball — intro only"
+msgstr ""
+
+msgid "Vuvuzela — intro only"
+msgstr ""
+
+msgid "Tactics board — intro only"
+msgstr ""
+
+msgid "Bunting density"
+msgstr ""
+
+msgid "Coverage means how much of the screen width is visually occupied by pennants. The plugin calculates the number of flags automatically based on the viewport width."
+msgstr ""
+
+msgid "Desktop horizontal coverage"
+msgstr ""
+
+msgid "Mobile horizontal coverage"
+msgstr ""
+
+msgid "Intro animation behavior"
+msgstr ""
+
+msgid "The ball, vuvuzela and tactics board appear only during the intro animation. After that, only subtle decorations remain on the page."
+msgstr ""
+
+msgid "Repeat full intro animation"
+msgstr ""
+
+msgid "Only once per browser session"
+msgstr ""
+
+msgid "Every X days using a cookie"
+msgstr ""
+
+msgid "Always repeat — useful only for testing"
+msgstr ""
+
+msgid "Cookie days"
+msgstr ""
+
+msgid "Controls when the full intro animation can be displayed again."
+msgstr ""
+
+msgid "Initial paper pieces"
+msgstr ""
+
+msgid "Total number of paper pieces released during the intro animation."
+msgstr ""
+
+msgid "Continuous paper pieces per second"
+msgstr ""
+
+msgid "Average number of paper pieces generated per second after the intro. Example: 0.20 means one piece every five seconds."
+msgstr ""
+
+msgid "Mobile & compatibility"
+msgstr ""
+
+msgid "Disable all decorations on mobile devices"
+msgstr ""
+
+msgid "Mobile breakpoint (px)"
+msgstr ""
+
+msgid "If disabled on mobile is enabled, widths equal to or below this value will not render decorations."
+msgstr ""
+
+msgid "Do not show on WooCommerce cart, checkout and My Account pages"
+msgstr ""
+
+msgid "Respect users with reduced motion enabled in their system"
+msgstr ""
+
+msgid "Visual layer / z-index"
+msgstr ""
+
+msgid "Increase only if a theme element is covering the decoration."
+msgstr ""
+
+msgid "Save settings"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Open a simulated storefront using the current settings. It is better than the old static preview and also works with unsaved form changes."
+msgstr ""
+
+msgid "Open preview modal"
+msgstr ""
+
+msgid "The preview runs inside this settings screen only. It does not affect cookies, visitors or your public frontend."
+msgstr ""
