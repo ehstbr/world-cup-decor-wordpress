@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: World Cup Decorations
- * Plugin URI:  https://networked.com.br
  * Description: Adds subtle World Cup decorations to your site: SVG bunting, falling confetti, intro animations with a bouncing ball, a vuvuzela and a tactics board, plus country-based colors and session/cookie repeat controls.
  * Version:     1.3.3
  * Author:      Eduardo Henrique Silva Teixeira
@@ -12,6 +11,7 @@
  * Text Domain: world-cup-decorations
  * Domain Path: /languages
  * Requires at least: 5.8
+ * Tested up to: 7.0
  * Requires PHP: 7.4
  */
 
