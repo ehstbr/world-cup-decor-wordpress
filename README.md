@@ -1,4 +1,6 @@
-<img src="screenshot/screenshot.png" alt="Battz screenshot" width="800">
+<img src="assets/screenshot-1.png" alt="Battz screenshot" width="800">
+<img src="assets/screenshot-2.png" alt="Lojão das Baterias screenshot" width="800">
+<img src="assets/screenshot-3.png" alt="Configuration screenshot" width="800">
 
 # World Cup Decorations
 
